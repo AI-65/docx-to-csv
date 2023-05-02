@@ -16,8 +16,8 @@ def read_table_from_docx(file_path):
             table_data.append(row_data)
     return table_data
 
-input_directory = 'C:\\Users\\iljag\\Desktop\\schmerzensgeldbackup'
-output_csv = 'C:\\Users\\iljag\\Desktop\\output.csv'
+input_directory = ''
+output_csv = ''
 
 all_data = []
 
